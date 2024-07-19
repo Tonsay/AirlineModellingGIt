@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AirlineBLss">
+      <HintPath>..\AirlineBLss\obj\Debug\net8.0\AirlineBLss.dll</HintPath>
+    </Reference>
+    <Reference Include="AirlineDLs">
+      <HintPath>..\AirlineDLs\obj\Debug\net8.0\AirlineDLs.dll</HintPath>
+    </Reference>
+    <Reference Include="AirlineModelling">
+      <HintPath>..\AirlineModelling\obj\Debug\net8.0\AirlineModelling.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
