@@ -1,0 +1,11 @@
+C:\Users\HUAWEI\source\repos\AirlineModelling\bin\Debug\net8.0\AirlineModelling.deps.json
+C:\Users\HUAWEI\source\repos\AirlineModelling\bin\Debug\net8.0\AirlineModelling.dll
+C:\Users\HUAWEI\source\repos\AirlineModelling\bin\Debug\net8.0\AirlineModelling.pdb
+C:\Users\HUAWEI\source\repos\AirlineModelling\obj\Debug\net8.0\AirlineModelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\source\repos\AirlineModelling\obj\Debug\net8.0\AirlineModelling.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\source\repos\AirlineModelling\obj\Debug\net8.0\AirlineModelling.AssemblyInfo.cs
+C:\Users\HUAWEI\source\repos\AirlineModelling\obj\Debug\net8.0\AirlineModelling.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\AirlineModelling\obj\Debug\net8.0\AirlineModelling.dll
+C:\Users\HUAWEI\source\repos\AirlineModelling\obj\Debug\net8.0\refint\AirlineModelling.dll
+C:\Users\HUAWEI\source\repos\AirlineModelling\obj\Debug\net8.0\AirlineModelling.pdb
+C:\Users\HUAWEI\source\repos\AirlineModelling\obj\Debug\net8.0\ref\AirlineModelling.dll

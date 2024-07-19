@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AirlineDLs\AirlineDLs.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AirlineDLs">
+      <HintPath>..\AirlineDLs\bin\Debug\net8.0\AirlineDLs.dll</HintPath>
+    </Reference>
+    <Reference Include="AirlineModelling">
+      <HintPath>..\AirlineModelling\bin\Debug\net8.0\AirlineModelling.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

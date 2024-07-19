@@ -1,0 +1,17 @@
+C:\Users\HUAWEI\source\repos\AirlineBLss\bin\Debug\net8.0\AirlineBLss.deps.json
+C:\Users\HUAWEI\source\repos\AirlineBLss\bin\Debug\net8.0\AirlineBLss.dll
+C:\Users\HUAWEI\source\repos\AirlineBLss\bin\Debug\net8.0\AirlineBLss.pdb
+C:\Users\HUAWEI\source\repos\AirlineBLss\bin\Debug\net8.0\AirlineDLs.dll
+C:\Users\HUAWEI\source\repos\AirlineBLss\bin\Debug\net8.0\AirlineModelling.dll
+C:\Users\HUAWEI\source\repos\AirlineBLss\bin\Debug\net8.0\AirlineDLs.pdb
+C:\Users\HUAWEI\source\repos\AirlineBLss\bin\Debug\net8.0\AirlineModelling.pdb
+C:\Users\HUAWEI\source\repos\AirlineBLss\obj\Debug\net8.0\AirlineBLss.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\AirlineBLss\obj\Debug\net8.0\AirlineBLss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\source\repos\AirlineBLss\obj\Debug\net8.0\AirlineBLss.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\source\repos\AirlineBLss\obj\Debug\net8.0\AirlineBLss.AssemblyInfo.cs
+C:\Users\HUAWEI\source\repos\AirlineBLss\obj\Debug\net8.0\AirlineBLss.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\AirlineBLss\obj\Debug\net8.0\AirlineB.EF629FCA.Up2Date
+C:\Users\HUAWEI\source\repos\AirlineBLss\obj\Debug\net8.0\AirlineBLss.dll
+C:\Users\HUAWEI\source\repos\AirlineBLss\obj\Debug\net8.0\refint\AirlineBLss.dll
+C:\Users\HUAWEI\source\repos\AirlineBLss\obj\Debug\net8.0\AirlineBLss.pdb
+C:\Users\HUAWEI\source\repos\AirlineBLss\obj\Debug\net8.0\ref\AirlineBLss.dll

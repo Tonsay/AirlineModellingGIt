@@ -1,0 +1,15 @@
+C:\Users\HUAWEI\source\repos\AirlineDLs\obj\Debug\net8.0\AirlineDLs.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\AirlineDLs\obj\Debug\net8.0\AirlineDLs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\source\repos\AirlineDLs\obj\Debug\net8.0\AirlineDLs.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\source\repos\AirlineDLs\obj\Debug\net8.0\AirlineDLs.AssemblyInfo.cs
+C:\Users\HUAWEI\source\repos\AirlineDLs\obj\Debug\net8.0\AirlineDLs.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\AirlineDLs\bin\Debug\net8.0\AirlineDLs.deps.json
+C:\Users\HUAWEI\source\repos\AirlineDLs\bin\Debug\net8.0\AirlineDLs.dll
+C:\Users\HUAWEI\source\repos\AirlineDLs\bin\Debug\net8.0\AirlineDLs.pdb
+C:\Users\HUAWEI\source\repos\AirlineDLs\bin\Debug\net8.0\AirlineModelling.dll
+C:\Users\HUAWEI\source\repos\AirlineDLs\bin\Debug\net8.0\AirlineModelling.pdb
+C:\Users\HUAWEI\source\repos\AirlineDLs\obj\Debug\net8.0\AirlineDLs.csproj.Up2Date
+C:\Users\HUAWEI\source\repos\AirlineDLs\obj\Debug\net8.0\AirlineDLs.dll
+C:\Users\HUAWEI\source\repos\AirlineDLs\obj\Debug\net8.0\refint\AirlineDLs.dll
+C:\Users\HUAWEI\source\repos\AirlineDLs\obj\Debug\net8.0\AirlineDLs.pdb
+C:\Users\HUAWEI\source\repos\AirlineDLs\obj\Debug\net8.0\ref\AirlineDLs.dll
